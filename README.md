@@ -1,0 +1,2 @@
+# CCBot
+CommunityCon Discord Bot
